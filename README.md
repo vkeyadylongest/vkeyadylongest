@@ -65,7 +65,7 @@ const victor = {
 
 ## 📌 Featured Projects
 
-> 🧩 *Pinned repositories will show here after you pin them manually on your GitHub profile.*
+> 🧩
 
 ```md
 🔹 Personal Portfolio Website – [Coming Soon]  
