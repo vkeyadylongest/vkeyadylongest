@@ -11,16 +11,6 @@
 
 ---
 
-## 🚀 About Me
-
-```js
-const victor = {
-  code: ["HTML", "CSS", "JavaScript"],
-  currentlyLearning: ["Responsive Web Design", "DOM Manipulation", "Git"],
-  goal: "Build clean, user-friendly websites & collaborate with other devs",
-  email: "victor.amiani.k@gmail.com",
-  hobbies: ["Debugging with coffee", "Minimalist design", "Open-source exploring"]
-};
 
 
 ## 🛠️ Tech Stack
