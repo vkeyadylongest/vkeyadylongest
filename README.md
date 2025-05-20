@@ -1,3 +1,26 @@
+<h1 align="center">👋 Hey there, I’m Victor Amiani</h1>
+
+<p align="center">
+  💻 Front-End Web Developer | 🎨 Creative Coder | 🌱 Lifelong Learner  
+</p>
+
+<p align="center">
+  <a href="mailto:victor.amiani.k@gmail.com"><img src="https://img.shields.io/badge/Email-victor.amiani.k@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vkeyadylongest&label=Profile+Views&color=blueviolet&style=flat-square" alt="vkeyadylongest" />
+</p>
+
+---
+
+## 🚀 About Me
+
+```js
+const victor = {
+  code: ["HTML", "CSS", "JavaScript"],
+  currentlyLearning: ["Responsive Web Design", "DOM Manipulation", "Git"],
+  goal: "Build clean, user-friendly websites & collaborate with other devs",
+  email: "victor.amiani.k@gmail.com",
+  hobbies: ["Debugging with coffee", "Minimalist design", "Open-source exploring"]
+};
 
 
 ## 🛠️ Tech Stack
