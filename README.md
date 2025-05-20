@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vkeyadylongest
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning with freecodecamp
-- 💞️ I’m looking to collaborate on HTML and CSS
+- 💞️ I’m looking to collaborate on HTML, CSS and JavaScript
 - 📫 How to reach me ...
 
 <!---
