@@ -1,56 +1,86 @@
-<h1 align="center">✨ Welcome, I'm @vkeyadylongest 👋</h1>
+````markdown
+<h1 align="center">👋 Hey there, I’m Victor Amiani</h1>
 
 <p align="center">
-  🌐 Front-End Explorer | 🎨 CSS Enthusiast | 🚀 Learning One Line at a Time
+  💻 Front-End Web Developer | 🎨 Creative Coder | 🌱 Lifelong Learner  
+</p>
+
+<p align="center">
+  <a href="mailto:victor.amiani.k@gmail.com"><img src="https://img.shields.io/badge/Email-victor.amiani.k@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vkeyadylongest&label=Profile+Views&color=blueviolet&style=flat-square" alt="vkeyadylongest" />
+</p>
+
+---
+
+## 🚀 About Me
+
+```js
+const victor = {
+  code: ["HTML", "CSS", "JavaScript"],
+  currentlyLearning: ["Responsive Web Design", "DOM Manipulation", "Git"],
+  goal: "Build clean, user-friendly websites & collaborate with other devs",
+  email: "victor.amiani.k@gmail.com",
+  hobbies: ["Debugging with coffee", "Minimalist design", "Open-source exploring"]
+};
+````
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/FreeCodeCamp-0a0a23?style=for-the-badge&logo=freecodecamp&logoColor=green" />
 </p>
 
 ---
 
 ## 🧠 Currently Learning
 
-- 🌱 Sharpening my skills through [freeCodeCamp](https://www.freecodecamp.org/)
-- 💻 Focused on **HTML**, **CSS**, and **JavaScript**
-- 🤝 Always up for collaboration and pairing on beginner-friendly projects
+* ⚡ JavaScript fundamentals & DOM scripting
+* 📱 Responsive design techniques
+* 🌐 Version control with Git & GitHub
+* 🤝 Collaborating on real-world beginner projects
 
 ---
 
-## ⚙️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=green" />
-</p>
-
----
-
-## 📊 GitHub Activity
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vkeyadylongest&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vkeyadylongest&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vkeyadylongest&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vkeyadylongest&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-## 📌 Pinned Projects
+## 🏆 GitHub Trophies
 
-> 
-
----
-
-## 📬 Let's Connect
-
-- 💌 victor.amiani.k@gmail.com
-- 🌍 Open to collaboration on small projects, code reviews, or just tech talk!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vkeyadylongest&theme=radical&row=1&margin-w=10&margin-h=10" />
+</p>
 
 ---
 
-<h3 align="center">
-  🧩 "The web is my playground. Code is my favorite toy." 🧩
-</h3>
+## 📌 Featured Projects
 
-<!---
-vkeyadylongest/vkeyadylongest is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+> 🧩 *Pinned repositories will show here after you pin them manually on your GitHub profile.*
+
+```md
+🔹 Personal Portfolio Website – [Coming Soon]  
+🔹 JavaScript Calculator – [Coming Soon]  
+🔹 CSS Animations Playground – [Coming Soon]  
+```
+
+---
+
+## 📬 Let’s Connect!
+
+* ✉️ Email: [victor.amiani.k@gmail.com](mailto:victor.amiani.k@gmail.com)
+* 💬 Open to collabs, beginner-friendly projects, and learning together!
+
+---
+
+<h3 align="center">"Every great developer you know started out just like you. Keep going." 🚀</h3>
+```
