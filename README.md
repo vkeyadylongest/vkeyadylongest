@@ -66,7 +66,7 @@
 ## ✨ Fun Facts
 
 - 🎸 I play guitar when debugging gets tough  
-- 🌍 Speak 3 languages: English, Spanish, and Python (okay, 2.5)  
+- 🌍 Speak 3 languages: English, JavaScript, and Python (okay, 2.5)  
 - ☕ Coffee > Sleep  
 
 ---
