@@ -6,3 +6,9 @@
 <p align="center">
   💻 Front-End Developer | 🎨 UI/UX Explorer | ☕ Coffee-Fueled Coder  
 </p>
+
+---
+
+```bash
+> whoami
+"Front-End Dev crafting interactive web experiences ✨"
