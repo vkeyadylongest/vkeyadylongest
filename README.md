@@ -12,3 +12,6 @@
 ```bash
 > whoami
 "Front-End Dev crafting interactive web experiences ✨"
+
+> skills --list
+[ "HTML", "CSS", "JavaScript", "React", "Tailwind", "Git", "Figma" ]
