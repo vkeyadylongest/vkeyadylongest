@@ -71,10 +71,14 @@
 
 ## ✨ Fun Facts
 
-- 🎸 I strum the guitar when debugging gets tough
-- 🌍 Fluent in English, JavaScript, and a bit of Python (2.5 languages!)
+- 📦 Importing coffee, exporting code
+- 😅 “It worked yesterday…”
 - ☕ Coffee fuels my code, sleep is optional
-
+-🥷 Silent coder, loud deploys
+-📡 Always online, even in offline mode
+-🧠 Brain = if/else statements
+-💻 Just another human trying to make machines smarter
+-📦 Importing coffee, exporting code
 ---
 
 <div align="center">
