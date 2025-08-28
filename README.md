@@ -40,10 +40,10 @@
 [![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=to-do-list&theme=radical)](https://github.com/vkeyadylongest/to-do-list)
 
 ⌨️ [**Typing Speed Test**](https://vkeyadylongest.github.io/Typing-Speed-Test-/)  
-[![Typing Speed Test](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=Typing&theme=radical)](https://github.com/vkeyadylongest/Typing)
+[![Typing Speed Test](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=Typing-Speed-Test-&theme=radical)](https://github.com/vkeyadylongest/Typing-Speed-Test-)
 
 🧮 [**Calculator App**](https://vkeyadylongest.github.io/calculator/)  
-[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=calculator-app&theme=radical)](https://github.com/vkeyadylongest/calculator-app)
+[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=calculator&theme=radical)](https://github.com/vkeyadylongest/calculator)
 
 ---
 
