@@ -37,7 +37,7 @@
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=VictorAmianiPortfolio&theme=radical)](https://github.com/vkeyadylongest/VictorAmianiPortfolio)
 
 ✅ [**To-Do List App**](https://vkeyadylongest.github.io/to-do-list/)  
-[![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=todo-list-app&theme=radical)](https://github.com/vkeyadylongest/todo-list-app)
+[![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=to-do-list&theme=radical)](https://github.com/vkeyadylongest/to-do-list)
 
 ⌨️ [**Typing Speed Test**](https://vkeyadylongest.github.io/Typing-Speed-Test-/)  
 [![Typing Speed Test](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=Typing&theme=radical)](https://github.com/vkeyadylongest/Typing)
