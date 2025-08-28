@@ -32,7 +32,7 @@
 ---
 
 ## 🚀 Featured Projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=portfolio&theme=radical)](https://github.com/vkeyadylongest/portfolio)
+[![Repo Card](https://vkeyadylongest.github.io/VictorAmianiPortfolio/)](https://github.com/vkeyadylongest/portfolio)
 [![Repo Card](https://vkeyadylongest.github.io/to-do-list/)](https://github.com/vkeyadylongest/todo-list-app)  
 
 [![Repo Card](https://vkeyadylongest.github.io/Typing-Speed-Test-/)](https://github.com/vkeyadylongest/Typing)
