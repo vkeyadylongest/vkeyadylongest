@@ -4,7 +4,7 @@
     Hey there, I’m Dev Victor Amiani
   </h1>
   <p style="font-size: 1.2rem; color: #a0aec0; max-width: 600px; line-height: 1.6;">
-    💻 Front-End Web Developer | 🎨 UI/UX Enthusiast | 🌌 Crafting sleek interfaces in the dark
+    💻 Front-End Web Developer | 🎨 UI/UX Enthusiast | 🌌 Coding in the dark
   </p>
 </div>
 
@@ -23,7 +23,7 @@
 
 # 🌑 Dark Mode FadeIn Animation
 
-Bring elements to life with a smooth fade-in and slide-up effect, perfect for dark-themed interfaces.
+A smooth fade-in animation that brings elements to life against a dark backdrop.
 
 ```css
 @keyframes fadeIn {
