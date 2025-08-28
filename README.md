@@ -31,12 +31,25 @@
 
 ---
 
-## 🚀 Featured Projects
-[![Repo Card](https://vkeyadylongest.github.io/VictorAmianiPortfolio/)](https://github.com/vkeyadylongest/portfolio)
-[![Repo Card](https://vkeyadylongest.github.io/to-do-list/)](https://github.com/vkeyadylongest/todo-list-app)  
+## 🚀 Featured Projects  
 
-[![Repo Card](https://vkeyadylongest.github.io/Typing-Speed-Test-/)](https://github.com/vkeyadylongest/Typing)
-[![Repo Card](https://vkeyadylongest.github.io/calculator/)](https://github.com/vkeyadylongest/calculator-app)  
+### 🌐 [Portfolio Website](https://vkeyadylongest.github.io/VictorAmianiPortfolio/)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=portfolio&theme=radical)](https://github.com/vkeyadylongest/portfolio)  
+
+---
+
+### ✅ [To-Do List App](https://vkeyadylongest.github.io/to-do-list/)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=todo-list-app&theme=radical)](https://github.com/vkeyadylongest/todo-list-app)  
+
+---
+
+### ⌨️ [Typing Speed Test](https://vkeyadylongest.github.io/Typing-Speed-Test-/)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=Typing&theme=radical)](https://github.com/vkeyadylongest/Typing)  
+
+---
+
+### 🧮 [Calculator App](https://vkeyadylongest.github.io/calculator/)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=calculator-app&theme=radical)](https://github.com/vkeyadylongest/calculator-app) 
 
 ---
 
