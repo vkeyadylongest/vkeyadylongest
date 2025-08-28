@@ -2,7 +2,8 @@
 # 👋 Hey there, I’m Victor Amiani  
 
 💻 **Front-End Web Developer**  
-🎨 **UI/UX Enthusiast** | 🌈 Designing vibrant experiences  
+🎨 **UI/UX Enthusiast** | 🌈 Designing vibrant user-friendly experiences  
+
 
 ---
 
