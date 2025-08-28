@@ -31,25 +31,19 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 🌐 [Portfolio Website](https://vkeyadylongest.github.io/VictorAmianiPortfolio/)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=portfolio&theme=radical)](https://github.com/vkeyadylongest/portfolio)  
+🌍 [**Portfolio Website**](https://vkeyadylongest.github.io/VictorAmianiPortfolio/)  
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=VictorAmianiPortfolio&theme=radical)](https://github.com/vkeyadylongest/VictorAmianiPortfolio)
 
----
+✅ [**To-Do List App**](https://vkeyadylongest.github.io/to-do-list/)  
+[![To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=todo-list-app&theme=radical)](https://github.com/vkeyadylongest/todo-list-app)
 
-### ✅ [To-Do List App](https://vkeyadylongest.github.io/to-do-list/)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=todo-list-app&theme=radical)](https://github.com/vkeyadylongest/todo-list-app)  
+⌨️ [**Typing Speed Test**](https://vkeyadylongest.github.io/Typing-Speed-Test-/)  
+[![Typing Test](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=Typing&theme=radical)](https://github.com/vkeyadylongest/Typing)
 
----
-
-### ⌨️ [Typing Speed Test](https://vkeyadylongest.github.io/Typing-Speed-Test-/)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=Typing&theme=radical)](https://github.com/vkeyadylongest/Typing)  
-
----
-
-### 🧮 [Calculator App](https://vkeyadylongest.github.io/calculator/)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=calculator-app&theme=radical)](https://github.com/vkeyadylongest/calculator-app) 
+🧮 [**Calculator App**](https://vkeyadylongest.github.io/calculator/)  
+[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=vkeyadylongest&repo=calculator-app&theme=radical)](https://github.com/vkeyadylongest/calculator-app)
 
 ---
 
