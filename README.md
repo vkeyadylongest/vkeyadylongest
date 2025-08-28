@@ -21,19 +21,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=vkeyadylongest.vkeyadylongest&color=10b981&style=flat-square" alt="Visitors">
 </div>
 
-# 🌑 Dark Mode FadeIn Animation
 
-A clean fade-in animation that elevates dark-themed interfaces with a smooth slide-up effect.
-
-```css
-@keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(20px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-
-.fade-in {
-  animation: fadeIn 1.5s ease-in-out forwards;
-}
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 0.8rem; margin: 1.5rem 0;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&color=2d3748" alt="HTML5">
