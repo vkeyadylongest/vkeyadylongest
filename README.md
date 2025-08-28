@@ -8,7 +8,7 @@
 
 ## 🌐 Connect with Me
 📧 [Email](mailto:victor.amiani.k@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com) | [Twitter](https://twitter.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/victor-amiani-972859229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter](https://twitter.com)  
 
 ---
 
