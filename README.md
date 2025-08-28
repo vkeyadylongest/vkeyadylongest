@@ -32,4 +32,14 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&color=2d3748" alt="VS Code">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&color=2d3748" alt="Figma">
 </div>
-
+
+
+ Currently Learning<div style="background: #2d3748; padding: 1rem; border-radius: 8px; margin: 1.5rem 0;">
+  <ul style="list-style: none; padding: 0; font-size: 1rem; color: #e2e8f0;">
+    <li> <strong>Advanced JavaScript</strong>: Closures, Async/Await</li>
+    <li> <strong>CSS Frameworks</strong>: Tailwind, SASS</li>
+    <li> <strong>React</strong>: Hooks, Context API</li>
+    <li> <strong>Architecture</strong>: Component-based design</li>
+  </ul>
+</div>
+
